@@ -14,7 +14,7 @@ As you know, today the programming things is fast changes. We now use a lot of t
 
 Guys, sorry my english language is not good. But still learn how become great speaking and writer.
 
-### Skils
+### Skills
 
 1. PHP Laravel Frameworks
 2. MySQL
@@ -25,4 +25,4 @@ Guys, sorry my english language is not good. But still learn how become great sp
 - Telegram: @adiputra22
 
 ### Works
-I works from 2011 until now as Software engineer. My full works can checkout at this page
+I works from 2011 until now as Software engineer. My full works can checkout at this page [Portofolio](https://https://adiputra22.github.io/portofolio.md)
