@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## Adiputra GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/adiputra22/adiputra22.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This is my first page github.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### About
 
-### Markdown
+Hi, my fullname is I Nyoman Martin Adiputra, you can just easy to call me Adi. I am now in Bekasi, Indonesia. My daily activity is like usual programmer, coding. I have 2 child, beside coding, like usual father, play with my child, help my wife’s tasks coz now i as fulltime remote working.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+My primary language programming is PHP, I was started learn and work with this language in 2010. Other language is like Javascript and Python. I have a lot of experience in e-commerce flows. Not just like programmer, i also sell some products in e-commerce, so i knows also what things problem as a seller and as a customers 🙂
 
-```markdown
-Syntax highlighted code block
+First time i learn PHP Native, MySQL, Javascript to create project. I have use framework PHP, Codeigniter. That framework was i used when working in my first company. Today, i have use Laravel Framework.
 
-# Header 1
-## Header 2
-### Header 3
+As you know, today the programming things is fast changes. We now use a lot of tools for developing something. I have learn also Docker and AWS things. So not just programming language, we also learn how our code is deploy in our stacks/servers.
 
-- Bulleted
-- List
+Guys, sorry my english language is not good. But still learn how become great speaking and writer.
 
-1. Numbered
-2. List
+### Skils
 
-**Bold** and _Italic_ and `Code` text
+1. PHP Laravel Frameworks
+2. MySQL
 
-[Link](url) and ![Image](src)
-```
+### Contact
+- eMail : tuts.adiputra@gmail.com
+- Whatsapp: +62 856 9538 6764
+- Telegram: @adiputra22
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/adiputra22/adiputra22.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Works
+I works from 2011 until now as Software engineer. My full works can checkout at this page
